@@ -9,7 +9,7 @@ In this project, the goal is to write a software pipeline to identify the lane b
 [video1]: ./output_project_video.mp4
 
 # Writeup and Code
-All the Write Up and Code is in the Final- Advanced Lane Finding.ipynb ipython Notebook. 
+All the Write Up and Code is in the Final- Advanced Lane Finding.ipynb ipython Notebook. Please note the Discussion Rubric is at the top section of the notebook.
 
 # Project Pipeline Video - output_project_video.mp4
 [Link][video1]
