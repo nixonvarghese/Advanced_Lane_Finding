@@ -6,9 +6,13 @@ In this project, the goal is to write a software pipeline to identify the lane b
 [image1]: ./output_images/tracked_0.jpg
 [image2]: ./output_images/tracked_1.jpg
 [image3]: ./output_images/tracked_5.jpg
+[video1]: ./output_project_video.mp4
 
 # Writeup and Code
 All the Write Up and Code is in the Final- Advanced Lane Finding.ipynb ipython Notebook. 
+
+# Project Pipleline Video - output_project_video.mp4
+![alt text][video1]
 
 # Sample Putput Images
 More images can be found in output_images folder
