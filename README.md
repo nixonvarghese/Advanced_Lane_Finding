@@ -14,7 +14,7 @@ All the Write Up and Code is in the Final- Advanced Lane Finding.ipynb ipython N
 # Project Pipleline Video - output_project_video.mp4
 [Link][video1]
 
-# Sample Putput Images
+# Sample Output Images
 More images can be found in output_images folder
 
 ![alt text][image1]
